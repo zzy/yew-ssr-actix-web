@@ -1,6 +1,6 @@
-# Yew Server-side Rendering with actix-web Example
+# Yew Server-side Rendering with actix-web & reqwest
 
-This example demonstrates yew server-side rendering with actix-web.
+This example demonstrates yew server-side rendering with actix-web & reqwest.
 
 This demo need the **development version** of yew.
 
